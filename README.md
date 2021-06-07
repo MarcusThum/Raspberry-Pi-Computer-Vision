@@ -2,7 +2,7 @@
 MarcusThum's Raspberry Pi Setup for Computer Vision
 
 ## Still working on it
-I'll update the Technical Documents + Components Cost. In the meantime take a look around. I've shared my completed projects.
+I'll update the Technical Documents + Components Cost. In the meantime, take a look around. I've shared my completed projects.
 
 ## Setup Localization (Country/Region)
 I'm in Singapore.
