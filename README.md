@@ -51,10 +51,11 @@ soldered LED's and a Button.*
 
 **Components List:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Components-BOM.pdf
 
-> I am based in Country of Origin: Singapore. My Country's E-Commerce Platforms are:
+> I am based in Singapore. My Country's E-Commerce Platforms are:
 > - Shopee
 > - Lazada
-> This are the two Platforms that I got my Components from.
+
+> These are the two Platforms that I got my Components from.
 
 > **NOTE: This Platforms may not be accessible in other other Countries**
 
