@@ -24,9 +24,8 @@ Step 6: Run bash GPIO.py
 
 # Design Files
 
-```
 **(3dPrintFile) Design Files** : https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(3dPrintFile)%20Design%20Files
-```
+
 
 # Pictures
 ## Body
