@@ -57,7 +57,7 @@ soldered LED's and a Button.*
 
 > These are the two Platforms that I got my Components from.
 
-> **NOTE: This Platforms may not be accessible in other other Countries**
+> **NOTE: These Platforms may not be accessible in other other Countries**
 
 
 # Pictures
