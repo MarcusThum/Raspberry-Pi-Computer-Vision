@@ -244,7 +244,7 @@ This is Marcus Thum's own Personal Project. Do feel free to reach out to me on m
 
 All materials are linked to External Sources.
 
-8.  **Appendices**
+# **Appendices**
 
 The report has been stylised to make reading easier. All the Referenced
 Content and Text have been written with focus and intent. I hope you
