@@ -143,7 +143,7 @@ Final Phase.
 
 ### **Get the Microphones to Work**
 
-![](media/image6.jpeg)
+![](media/image6.jpg)
 
 **Figure 6:** The Dispenser makes it Faster
 
