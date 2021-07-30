@@ -45,9 +45,18 @@ soldered LED's and a Button.*
 
 **Technical Document:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Technical-Document.pdf
 
+>This Technical Document elaborates on the individual components && Overview of the scope of the project.
+
 # Components List (BOM Table):
 
 **Components List:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Components-BOM.pdf
+
+> I am based in Country of Origin: Singapore. My Country's E-Commerce Platforms are:
+> - Shopee
+> - Lazada
+> This are the two Platforms that I got my Components from.
+
+> **NOTE: This Platforms may not be accessible in other other Countries**
 
 
 # Pictures
