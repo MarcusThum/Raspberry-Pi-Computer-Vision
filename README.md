@@ -1,8 +1,6 @@
 # **Raspberry-Pi-Computer-Vision**
 
-**Thum Wei Aun Marcus**
-
-**Abstract**
+## **Abstract**
 
 *The Raspberry-Pi is has been meticulously assembled with the sourced
 parts and 3d-Printed External Body Frame. It has an I/O Panel with
