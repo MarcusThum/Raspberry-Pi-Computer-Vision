@@ -1,4 +1,4 @@
-**Raspberry-Pi-Computer-Vision**
+# **Raspberry-Pi-Computer-Vision**
 
 **Thum Wei Aun Marcus**
 
@@ -8,17 +8,17 @@
 parts and 3d-Printed External Body Frame. It has an I/O Panel with
 soldered LED's and a Button.*
 
-1.  **INTRODUCTION**
+# **INTRODUCTION**
 
-    1.  **Background**
+## **Background**
 
-I initially thought of assembling a Computer Vision Model suing a
+I initially thought of assembling a Computer Vision Model using a
 Micro-Processor. I had a Raspberry Pi. Since it was convenient to setup
 the Raspberry Pi due to the modern E-Commerce platforms, I immediately
 got to thinking of a use for the Pi. The Operating System can be Setup
 using an SD-Card and Imager.
 
-2.  **Objectives**
+# **Objectives**
 
 The Objectives were to complete a working model of the Raspberry Pi,
 with a Microphone and Camera. Since it was also possible to setup USB
@@ -27,29 +27,24 @@ approach. I kind of knew this beforehand. It came together very well.
 
 The specific objectives were to:
 
--   Research and read up on performing OS Flashes, Python Coding and
-    > GPIO-Microphone Interfacing.
+-   Research and read up on performing OS Flashes, Python Coding and GPIO-Microphone Interfacing.
 
--   Discover and Explore Designs to house the components and board. Not
-    > to mention, I **added** a **UPS as a Power Source**.
+-   Discover and Explore Designs to house the components and board. Not to mention, I **added** a **UPS as a Power Source**.
 
 -   Disassembly and Reassembly of the components and frame.
 
--   Enable Communication between **GPIO-Headers**, **Microphone** and
-    > **UPS**.
+-   Enable Communication between **GPIO-Headers**, **Microphone** and **UPS**.
 
--   Program Python Code in Arduino to learn fundamentally, how
-    > Micro-Controller, connects with various modular Electrical
-    > Devices.
+-   Program Python Code in Arduino to learn fundamentally, how Micro-Controller, connects with various modular Electrical Devices.
 
 -   Program, Design and Visualize the Arduino.
 
 The process of the project runs though Research, Plan, Training,
 Self-Learning and Practice.
 
-2.  **PROJECT DESCRIPTION**
+# **PROJECT DESCRIPTION**
 
-    1.  **Braiding Technical Specifications**
+## **Braiding Technical Specifications**
 
 I **sourced** for a **Raspberry-Pi Camera**, **Respeaker Microphone**
 and **UPS**. The hardware components had to communicate with the **Host
@@ -59,9 +54,8 @@ and installed with **Linux Libraries**. **Python** was used for the
 **hard-coding** to communicate with the **Hardware-Software Driven
 Parts**.
 
-1.  
 
-2.  1.  1.  **GPIO Pins**
+## **GPIO Pins**
 
 > ![](media/image1.png){width="5.270833333333333in"
 > height="3.3063298337707785in"}
@@ -76,11 +70,7 @@ Parts**.
 > spending OR/AND wating for another board to arrive. It's not a
 > pleasant experience in the delay and extra costs.
 
-1.  
-
-2.  1.  1.  
-
-        2.  **Raspberry Pi Camera**
+## **Raspberry Pi Camera**
 
 > ![](media/image2.jpeg){width="2.0416666666666665in"
 > height="2.0416666666666665in"}
@@ -93,7 +83,7 @@ Parts**.
 > it's actually very resilient. Just Bear in Mind, they're **Exposed
 > Electronics**.
 
-3.  **(Seeed) Respeaker Microphones**
+## **(Seeed) Respeaker Microphones**
 
 > ![](media/image3.png){width="4.885416666666667in"
 > height="1.8153182414698164in"}
@@ -104,7 +94,7 @@ Parts**.
 > Projects/Experiments**. I bought the **4 Mic Array Module**, however,
 > Seed provides all kinds of **Microphone HAT/IO Boards**
 
-4.  **Uninterruptable Power Supply**
+## **Uninterruptable Power Supply**
 
 > ![](media/image4.png){width="2.2916666666666665in"
 > height="2.2916666666666665in"}
@@ -116,7 +106,7 @@ Parts**.
 > **charging** and **powering** the Pi is **seamless**. The board would
 > not **intermittently cut off** when powering and charging.
 
-5.  **IO Board**
+## **IO Board**
 
 > ![](media/image5.png){width="2.25in" height="3.0in"}
 >
@@ -127,52 +117,37 @@ Parts**.
 > **Functions** and **Scripts**. The **Board Interfaces** with the
 > **GPIO Header Pins** on the Pi.
 
-1.  **Process Description**
+# **Process Description**
 
-
-1.  
-
-2.  1.  
-
-    2.  1.  **Source the Parts**
+## **Source the Parts**
 
 The **Camera**, **Microphone** and **UPS** needed to be bought
 **Online**, from **E-Commerce Platforms**. **I'** completely absorbed
 all the **Costs** and **Setup**.
 
-1.  
-
-2.  1.  
-
-    2.  1.  
-
-        2.  **Design the Frame Body**
+## **Design the Frame Body**
 
 > **CAD Tools** can used to **Design**. The **Body** can be **3d
 > Printed**.
 
-3.  **Test and Evaluate**
+## **Test and Evaluate**
 
 The **Board's Connections** needed to be ensured it's **integrity** so
 that the **Program** can **communicate with the Host** and
 **Electronics**.
 
-1.  
-
-2.  
-
-3.  **Visualize the Final Product**
+## **Visualize the Final Product**
 
 > Once the **Program** and **IO's** have been verified to be in working
 > condition. It's time to **Visualize the Completed Product**, in it's
 > Final Phase.
 
-2.  **PROJECT DEVELOPMENT**
+# **PROJECT DEVELOPMENT**
 
-    1.  **Stages of Development**
+## **Stages of Development**
 
 
-3.  1.  1.  **Get the Microphones to Work**
+### **Get the Microphones to Work**
 
 ![r/3Dprinting - (Update) Completed RPI-Spy
 \[Vision-Mic-Array\]](media/image6.jpeg){width="3.21875in"
@@ -185,7 +160,7 @@ height="2.4142410323709536in"}
 > Once it's done **setup**, there are **Example codes** in **Python** to
 > get the **Microphone** to record and the **LED's** to Respond.
 
-2.  **Connecting the IO Board**
+### **Connecting the IO Board**
 
 > ![r/3Dprinting - (Update) Completed RPI-Spy
 > \[Vision-Mic-Array\]](media/image7.jpeg){width="2.25in"
@@ -199,7 +174,7 @@ height="2.4142410323709536in"}
 > occurrence**. Remember to enable GPIO Pins in Raspberry-Pi
 > Configuration Settings**.
 
-3.  **Setup Camera**
+### **Setup Camera**
 
 > ![r/3Dprinting - (Update) Completed RPI-Spy
 > \[Vision-Mic-Array\]](media/image8.jpeg){width="3.5520833333333335in"
@@ -217,19 +192,11 @@ height="2.4142410323709536in"}
 > Android phones on the other hand, are very capable ARM Processors.
 > **Remember to enable Camera in Raspberry-Pi Configuration Settings.**
 
-4.  **Results**
+# **Results**
 
+## **Final**
 
-3.  
-4.  
-
-
-3.  1.  **Final**
-
-
-3.  
-
-4.  1.  1.  **Final Visualised Outputs**
+## **Final Visualised Outputs**
 
 > ![](media/image9.png){width="3.375in" height="2.53125in"}
 >
@@ -248,9 +215,7 @@ height="2.4142410323709536in"}
 > to be underperforming. Anyways, who can argue for such compact
 > computing?
 
-4.  1.  
-
-    2.  PSU
+## **UPS**
 
 > ![](media/image11.png){width="4.722222222222222in"
 > height="3.5416666666666665in"}
@@ -266,17 +231,9 @@ height="2.4142410323709536in"}
 > using a Hard-Drive, and it also got burned. That was also when, I used
 > only a Battery.
 
-4.  1.  
-    2.  
+## **Components List**
 
-
-5.  
-6.  
-
-
-4.  1.  **Bio-Mechanical Hand**
-
-        1.  **BOM List**
+###**BOM List**
 
 > ![](media/image12.png){width="5.693661417322835in"
 > height="5.239583333333333in"}
@@ -285,22 +242,21 @@ height="2.4142410323709536in"}
 >
 > I sourced it from,
 
-1.  Shopee,
+> 1.  Shopee,
 
-2.  Lazada
+> 2.  Lazada
 
 
-5.  **CONCLUSION**
+#  **CONCLUSION**
 
 I have finally created a working use of a Computer Vision Model using
 Raspberry Pi.
 
-6.  **Acknowledgements**
+#  **Acknowledgements**
 
-> This is Marcus Thum's own Personal Project. Do feel free to reach out
-> to me on my Social Media.
+This is Marcus Thum's own Personal Project. Do feel free to reach out to me on my Social Media.
 
-7.  **References**
+#  **References**
 
 All materials are linked to External Sources.
 
