@@ -102,7 +102,7 @@ not **intermittently cut off** when powering and charging.
 
 ## **IO Board**
 
-![](media/image5.png){width="2.25in" height="3.0in"}
+![](media/image5.png)
 
 **Figure 5:** IO Board
 
@@ -143,16 +143,14 @@ Final Phase.
 
 ### **Get the Microphones to Work**
 
-![r/3Dprinting - (Update) Completed RPI-Spy
-\[Vision-Mic-Array\]](media/image6.jpeg){width="3.21875in"
-height="2.4142410323709536in"}
+![](media/image5.jpeg)
 
-> **Figure 6:** The Dispenser makes it Faster
->
-> The **Seeed 4 Mic Array HAT Module** depended on it's **Kernal** and
-> **dependencies** to work on **the Latest Version of Raspbian OS**.
-> Once it's done **setup**, there are **Example codes** in **Python** to
-> get the **Microphone** to record and the **LED's** to Respond.
+**Figure 6:** The Dispenser makes it Faster
+
+The **Seeed 4 Mic Array HAT Module** depended on it's **Kernal** and
+**dependencies** to work on **the Latest Version of Raspbian OS**.
+Once it's done **setup**, there are **Example codes** in **Python** to
+get the **Microphone** to record and the **LED's** to Respond.
 
 ### **Connecting the IO Board**
 
