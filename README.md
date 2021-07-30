@@ -27,6 +27,9 @@ soldered LED's and a Button.*
 
 **What is zip.py?** Run ```bash zip.py``` to Zip All Images and Audio [All Files are stored on Desktop]
 
+**NOTE: What if you encounter python errors? - Check for missing dependencies in the Error. Try to search Online. "pip install" sometimes resolve**
+
+**Don't know? Message me. You can search online forums as well**
 
 # Design Files
 
