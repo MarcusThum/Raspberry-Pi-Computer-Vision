@@ -7,7 +7,7 @@
 ![](media/Mic.jpg)
 ![](media/IO.jpg)
 ![](media/Camera_1.jpg)
-![](media/Final_2.jpg)
+![](media/Camera_2.jpg)
 
 ## Technical Document
 
