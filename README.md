@@ -13,7 +13,7 @@ soldered LED's and a Button.*
 
 **Step 2:** **Flash SD-Card** using **balenaEtcher** **[with the Image in Step 1]**
 
-**Step 3:** **Copy Scripts** from **(Scripts) -home-pi-Desktop-** to **/home/pi/Desktop** - https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(Scripts)%20-home-pi-Desktop
+**Step 3:** **Copy Scripts** from **(Scripts) -home-pi-Desktop-** to **/home/pi/Desktop** - https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(Scripts)%20-home-pi-Desktop- 
 
 **Step 4:** ``` cd Desktop/ ```
 
