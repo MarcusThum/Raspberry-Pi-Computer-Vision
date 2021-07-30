@@ -1,5 +1,27 @@
 # **Raspberry-Pi-Computer-Vision**
 
+## Final Product
+![](media/Final_1.jpg)
+![](media/Final_2.jpg)
+![](media/Final_3.jpg)
+![](media/Mic.jpg)
+![](media/IO.jpg)
+![](media/Camera_1.jpg)
+![](media/Final_2.jpg)
+
+## Technical Document
+
+Technical Document: https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Technical-Document.pdf
+
+## Components List (BOM Table):
+
+Components List: https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Components-BOM.pdf
+
+## Linked From REDDIT:
+Final Product: https://www.reddit.com/r/3Dprinting/comments/oq1q45/update_completed_rpispy_visionmicarray/
+
+Initial Assembly [Without Setup & Code]: https://www.reddit.com/r/3Dprinting/comments/nu26k6/raspberry_pi_computer_vision_setup/?utm_medium=android_app&utm_source=share
+
 ## **Abstract**
 
 *The Raspberry-Pi is has been meticulously assembled with the sourced
