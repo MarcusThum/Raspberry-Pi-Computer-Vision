@@ -55,8 +55,7 @@ Parts**.
 
 ## **GPIO Pins**
 
-![](media/image1.png){width="5.270833333333333in"
-height="3.3063298337707785in"}
+![](media/image1.png)
 
 **Figure 1:** GPIO Pins
 
@@ -70,50 +69,47 @@ pleasant experience in the delay and extra costs.
 
 ## **Raspberry Pi Camera**
 
-> ![](media/image2.jpeg){width="2.0416666666666665in"
-> height="2.0416666666666665in"}
->
-> **Figure 2:** Camera
->
-> This kind of **Cameras** come in a small profile **Electrical Board**
-> with a **Camera** and **Long Ribbon Cable**. You ought to be
-> **careful** when **assembling**. I've experienced a few cut off's, but
-> it's actually very resilient. Just Bear in Mind, they're **Exposed
-> Electronics**.
+![](media/image2.jpeg)
+
+**Figure 2:** Camera
+
+This kind of **Cameras** come in a small profile **Electrical Board**
+with a **Camera** and **Long Ribbon Cable**. You ought to be
+**careful** when **assembling**. I've experienced a few cut off's, but
+it's actually very resilient. Just Bear in Mind, they're **Exposed
+Electronics**.
 
 ## **(Seeed) Respeaker Microphones**
 
-> ![](media/image3.png){width="4.885416666666667in"
-> height="1.8153182414698164in"}
->
-> **Figure 3:** Microphones
->
-> These **Microphones** are great for **Development
-> Projects/Experiments**. I bought the **4 Mic Array Module**, however,
-> Seed provides all kinds of **Microphone HAT/IO Boards**
+![](media/image3.png)
+
+**Figure 3:** Microphones
+
+These **Microphones** are great for **Development
+Projects/Experiments**. I bought the **4 Mic Array Module**, however,
+Seed provides all kinds of **Microphone HAT/IO Boards**
 
 ## **Uninterruptable Power Supply**
 
-> ![](media/image4.png){width="2.2916666666666665in"
-> height="2.2916666666666665in"}
->
-> **Figure 4:** UPS
->
-> This **UPS** is very useful as a **Working Battery,** since it offers
-> **Uninterruptable Power Supply** when turned on. This means that
-> **charging** and **powering** the Pi is **seamless**. The board would
-> not **intermittently cut off** when powering and charging.
+![](media/image4.png)
+
+**Figure 4:** UPS
+
+This **UPS** is very useful as a **Working Battery,** since it offers
+**Uninterruptable Power Supply** when turned on. This means that
+**charging** and **powering** the Pi is **seamless**. The board would
+not **intermittently cut off** when powering and charging.
 
 ## **IO Board**
 
-> ![](media/image5.png){width="2.25in" height="3.0in"}
->
-> **Figure 5:** IO Board
->
-> From **Figure 5**, the **IO Board** consists of **2 Red LED's** and
-> **1 Working Button**. This will come in handy when using it to run
-> **Functions** and **Scripts**. The **Board Interfaces** with the
-> **GPIO Header Pins** on the Pi.
+![](media/image5.png){width="2.25in" height="3.0in"}
+
+**Figure 5:** IO Board
+
+From **Figure 5**, the **IO Board** consists of **2 Red LED's** and
+**1 Working Button**. This will come in handy when using it to run
+**Functions** and **Scripts**. The **Board Interfaces** with the
+**GPIO Header Pins** on the Pi.
 
 # **Process Description**
 
@@ -125,8 +121,8 @@ all the **Costs** and **Setup**.
 
 ## **Design the Frame Body**
 
-> **CAD Tools** can used to **Design**. The **Body** can be **3d
-> Printed**.
+**CAD Tools** can used to **Design**. The **Body** can be **3d
+Printed**.
 
 ## **Test and Evaluate**
 
@@ -136,9 +132,9 @@ that the **Program** can **communicate with the Host** and
 
 ## **Visualize the Final Product**
 
-> Once the **Program** and **IO's** have been verified to be in working
-> condition. It's time to **Visualize the Completed Product**, in it's
-> Final Phase.
+Once the **Program** and **IO's** have been verified to be in working
+condition. It's time to **Visualize the Completed Product**, in it's
+Final Phase.
 
 # **PROJECT DEVELOPMENT**
 
