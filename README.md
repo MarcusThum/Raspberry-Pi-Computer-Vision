@@ -26,24 +26,23 @@ soldered LED's and a Button.*
 
 **(3dPrintFile) Design Files** : https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(3dPrintFile)%20Design%20Files
 
+# Technical Document
+
+**Technical Document:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Technical-Document.pdf
+
+# Components List (BOM Table):
+
+**Components List:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Components-BOM.pdf
+
 
 # Pictures
 ## Body
 ![](media/Final_2.jpg)
 ## Microphone
 ![](media/Mic.jpg)
-## IO Panel
-![](media/IO.jpg)
 ## Camera Sample Image
 ![](media/Camera_1.jpg)
 
-# Technical Document
-
-Technical Document: https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Technical-Document.pdf
-
-# Components List (BOM Table):
-
-Components List: https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Components-BOM.pdf
 
 # Linked From REDDIT:
 Final Product: https://www.reddit.com/r/3Dprinting/comments/oq1q45/update_completed_rpispy_visionmicarray/
