@@ -19,7 +19,11 @@ soldered LED's and a Button.*
 
 **Step 5:** Activate Virtual Environment for Python ``` . myenv/bin/activate ```
 
-**Step 6**: Run ``` bash GPIO.py ```
+**Step 6:** ```bash recording_examples/get_device_index.py``` **Look for Device Index**
+
+**Step 7:** ```nano recording_examples/record_one_channel.py``` **Edit RESPEAKER_INDEX = "CHANGE ID NUMBER"**
+
+**Step 8**: Run ``` bash GPIO.py ```
 
 **What is zip.py?** Run ```bash zip.py``` to Zip All Images and Audio [All Files are stored on Desktop]
 
