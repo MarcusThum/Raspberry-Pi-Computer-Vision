@@ -11,15 +11,15 @@ soldered LED's and a Button.*
 
 **Step 1:** Download my Raspbian Image: https://1drv.ms/u/s!Aj3B7or9ZmxnpnM3DD8MNpDMdQnO [It has the Firmware, Drivers and Virtual Environment for Python]
 
-**Step 2:** Flash SD-Card using balenaEtcher [with the Image in Step 1]
+**Step 2:** **Flash SD-Card** using **balenaEtcher** **[with the Image in Step 1]**
 
-**Step 3:** Copy Scripts from **(Scripts) -home-pi-Desktop-** to /home/pi/Desktop - https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(Scripts)%20-home-pi-Desktop
+**Step 3:** **Copy Scripts** from **(Scripts) -home-pi-Desktop-** to **/home/pi/Desktop** - https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(Scripts)%20-home-pi-Desktop
 
 **Step 4:** cd Desktop/
 
-**Step 5:** Activate Virtual Environment for Python . myenv/bin/activate
+**Step 5:** Activate Virtual Environment for Python ``` . myenv/bin/activate ```
 
-**Step 6**: Run bash GPIO.py
+**Step 6**: Run ``` bash GPIO.py ```
 
 
 # Design Files
