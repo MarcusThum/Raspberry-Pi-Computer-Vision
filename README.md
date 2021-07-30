@@ -27,9 +27,11 @@ soldered LED's and a Button.*
 
 **What is zip.py?** Run ```bash zip.py``` to Zip All Images and Audio [All Files are stored on Desktop]
 
-**NOTE: What if you encounter python errors? - Check for missing dependencies in the Error. Try to search Online. "pip install" sometimes resolve**
+**NOTE: What if you encounter python errors? - Check for missing dependencies in the Error. Try to search Online. "pip install" sometimes resolves the ERROR.**
 
-**Don't know? Message me. You can search online forums as well**
+**WANT TO CODE DIFFERENTLY? If you want to implement Google Home devices, you'll have to learn from other forums and install more dependencies**
+
+**Don't Know? Message me. You can search online forums as well**
 
 # Design Files
 
