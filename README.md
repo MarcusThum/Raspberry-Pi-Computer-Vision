@@ -55,18 +55,18 @@ Parts**.
 
 ## **GPIO Pins**
 
-> ![](media/image1.png){width="5.270833333333333in"
-> height="3.3063298337707785in"}
->
-> **Figure 1:** GPIO Pins
->
-> The **GPIO Header Pins** above needs to be **handled** with **Care**.
-> **Accidental Electrical Shorts** Can **Spoil/Damage the Board**. The
-> bottom of the board needs to be kept away from contact. Similar
-> occurrences can happen. I've damaged one board since wasn't careful.
-> You would not want it to happen to you. Otherwise, it's either
-> spending OR/AND wating for another board to arrive. It's not a
-> pleasant experience in the delay and extra costs.
+![](media/image1.png){width="5.270833333333333in"
+height="3.3063298337707785in"}
+
+**Figure 1:** GPIO Pins
+
+The **GPIO Header Pins** above needs to be **handled** with **Care**.
+**Accidental Electrical Shorts** Can **Spoil/Damage the Board**. The
+bottom of the board needs to be kept away from contact. Similar
+occurrences can happen. I've damaged one board since wasn't careful.
+You would not want it to happen to you. Otherwise, it's either
+spending OR/AND wating for another board to arrive. It's not a
+pleasant experience in the delay and extra costs.
 
 ## **Raspberry Pi Camera**
 
