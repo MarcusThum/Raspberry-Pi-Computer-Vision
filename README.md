@@ -39,7 +39,7 @@ soldered LED's and a Button.*
 
 > Extension Explanation: .STL Files are 3d Printable Files that can be sliced and printed by a 3d Printer. They are exported from a CAD Application.
 
-**NOTE: My 3d Models has Low Tolerance for Assembly. It won't fit so easily. You Might Want to Design Your own Files. Use a CAD Application. CAD Stands for Computer Aided Designs.**
+**NOTE: My 3d Models has Low Tolerance for Assembly. It won't fit so easily. You Might Want to Design Your own Files. Use a CAD Application. CAD Stands for Computer Aided Design.**
 
 # Technical Document
 
