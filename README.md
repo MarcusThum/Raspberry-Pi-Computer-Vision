@@ -1,13 +1,14 @@
 # **Raspberry-Pi-Computer-Vision**
 
 ## Final Product
-![](media/Final_1.jpg)
+### Body
 ![](media/Final_2.jpg)
-![](media/Final_3.jpg)
+### Microphone
 ![](media/Mic.jpg)
+### IO Panel
 ![](media/IO.jpg)
+### Camera Sample Image
 ![](media/Camera_1.jpg)
-![](media/Camera_2.jpg)
 
 ## Technical Document
 
