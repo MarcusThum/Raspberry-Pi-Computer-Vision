@@ -154,35 +154,31 @@ get the **Microphone** to record and the **LED's** to Respond.
 
 ### **Connecting the IO Board**
 
-> ![r/3Dprinting - (Update) Completed RPI-Spy
-> \[Vision-Mic-Array\]](media/image7.jpeg){width="2.25in"
-> height="3.0in"}
->
-> **Figure 7:** IO Board
->
-> They were Soldered by Hand on a Prototype Electric Board. The
-> integrity of the joints and connections are not promised to work
-> reliably. Sometimes, connection issues are quite an uncommon
-> occurrence**. Remember to enable GPIO Pins in Raspberry-Pi
-> Configuration Settings**.
+![](media/image7.jpg)
+
+**Figure 7:** IO Board
+
+They were Soldered by Hand on a Prototype Electric Board. The
+integrity of the joints and connections are not promised to work
+reliably. Sometimes, connection issues are quite an uncommon
+occurrence**. Remember to enable GPIO Pins in Raspberry-Pi
+Configuration Settings**.
 
 ### **Setup Camera**
 
-> ![r/3Dprinting - (Update) Completed RPI-Spy
-> \[Vision-Mic-Array\]](media/image8.jpeg){width="3.5520833333333335in"
-> height="2.342344706911636in"}
->
-> **Figure 8:** Camera
->
-> The camera can be used to take Pictures using Python. I wasn't able to
-> use Pi-Camera or it's inbuild command/modules to for the camera. The
-> method I used is lightweight and only requires the use of a python's
-> "pip install" command. **Just Note that the camera is unusable when
-> it's used for Video Recording**. The projects that uses the Camera for
-> Video Recordings are showing the capability and possibility for ARM
-> microprocessors, with only 1gb RAM and barely any computing power.
-> Android phones on the other hand, are very capable ARM Processors.
-> **Remember to enable Camera in Raspberry-Pi Configuration Settings.**
+![](media/image8.jpg)
+
+**Figure 8:** Camera
+
+The camera can be used to take Pictures using Python. I wasn't able to
+use Pi-Camera or it's inbuild command/modules to for the camera. The
+method I used is lightweight and only requires the use of a python's
+"pip install" command. **Just Note that the camera is unusable when
+it's used for Video Recording**. The projects that uses the Camera for
+Video Recordings are showing the capability and possibility for ARM
+microprocessors, with only 1gb RAM and barely any computing power.
+Android phones on the other hand, are very capable ARM Processors.
+**Remember to enable Camera in Raspberry-Pi Configuration Settings.**
 
 # **Results**
 
@@ -190,49 +186,45 @@ get the **Microphone** to record and the **LED's** to Respond.
 
 ## **Final Visualised Outputs**
 
-> ![](media/image9.png){width="3.375in" height="2.53125in"}
->
-> **Figure 9:** Final
->
-> ![r/3Dprinting - (Update) Completed RPI-Spy
-> \[Vision-Mic-Array\]](media/image10.jpeg){width="4.25in"
-> height="2.037043963254593in"}
->
-> **Figure 10:** Quality of Camera (1080P Resolution)
->
-> Here is the completed product in all it's Glory. The Camera's Quality
-> is very good. It is comparable to a Phone's Camera. It makes for a
-> very capable camera. Other Raspberry-Pi Projects showcases it's
-> possibility in AI Recognition or Robotics. However, expect it's speed
-> to be underperforming. Anyways, who can argue for such compact
-> computing?
+![](media/image9.jpg)
+
+**Figure 9:** Final
+
+![](media/image6.jpg)
+
+**Figure 10:** Quality of Camera (1080P Resolution)
+
+Here is the completed product in all it's Glory. The Camera's Quality
+is very good. It is comparable to a Phone's Camera. It makes for a
+very capable camera. Other Raspberry-Pi Projects showcases it's
+possibility in AI Recognition or Robotics. However, expect it's speed
+to be underperforming. Anyways, who can argue for such compact
+computing?
 
 ## **UPS**
 
-> ![](media/image11.png){width="4.722222222222222in"
-> height="3.5416666666666665in"}
->
-> **Figure 11:** Completed UPS Charger
->
-> The Power Supply and Raspberry PI have been assembled in the Case. The
-> Power Switch and Power Outlet is now accessible through this Panel.
-> Take care when assembling the components. Accidental Electrical
-> Shorting can also happen. I accidentally burnt one of my SD-Card and
-> another Raspberry PI Board by accident. Although the UPS is rated as
-> Uninterruptable. It could still spoil Memory Devices. I once tried
-> using a Hard-Drive, and it also got burned. That was also when, I used
-> only a Battery.
+![](media/image11.png)
+
+**Figure 11:** Completed UPS Charger
+
+The Power Supply and Raspberry PI have been assembled in the Case. The
+Power Switch and Power Outlet is now accessible through this Panel.
+Take care when assembling the components. Accidental Electrical
+Shorting can also happen. I accidentally burnt one of my SD-Card and
+another Raspberry PI Board by accident. Although the UPS is rated as
+Uninterruptable. It could still spoil Memory Devices. I once tried
+using a Hard-Drive, and it also got burned. That was also when, I used
+only a Battery.
 
 ## **Components List**
 
 ###**BOM List**
 
-> ![](media/image12.png){width="5.693661417322835in"
-> height="5.239583333333333in"}
->
-> The BOM List has been generated for the Raspberry-Pi-Computer-Vision
->
-> I sourced it from,
+![](media/image12.png)
+
+The BOM List has been generated for the Raspberry-Pi-Computer-Vision
+
+I sourced it from,
 
 > 1.  Shopee,
 
