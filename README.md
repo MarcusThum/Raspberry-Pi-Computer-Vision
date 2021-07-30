@@ -29,9 +29,9 @@ soldered LED's and a Button.*
 
 **NOTE: What if you encounter python errors? - Check for missing dependencies in the Error. Try to search Online. "pip install" sometimes resolves the ERROR.**
 
-**WANT TO CODE DIFFERENTLY? If you want to implement Google Home devices, you'll have to learn from other forums and install more dependencies**
+**WANT TO CODE DIFFERENTLY? If you want to implement Google Home devices, you'll have to learn from other forums and install more dependencies.**
 
-**Don't Know? Message me. You can search online forums as well**
+**Don't Know? Message me. You can search online forums as well.**
 
 # Design Files
 
@@ -39,7 +39,7 @@ soldered LED's and a Button.*
 
 > Extension Explanation: .STL Files are 3d Printable Files that can be sliced and printed by a 3d Printer. They are exported from a CAD Application.
 
-**NOTE: My 3d Models has Low Tolerance for Assembly. It won't fit so easily. You Might Want to Design Your own Files. Use a CAD Application. CAD Stands for Computer Aided Designs**
+**NOTE: My 3d Models has Low Tolerance for Assembly. It won't fit so easily. You Might Want to Design Your own Files. Use a CAD Application. CAD Stands for Computer Aided Designs.**
 
 # Technical Document
 
