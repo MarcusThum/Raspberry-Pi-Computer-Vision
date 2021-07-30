@@ -32,6 +32,10 @@ soldered LED's and a Button.*
 
 **(3dPrintFile) Design Files** : https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/tree/main/(3dPrintFile)%20Design%20Files
 
+> Extension Explanation: .STL Files are 3d Printable Files that can be sliced and printed by a 3d Printer. They are exported from a CAD Application.
+
+**NOTE: 3d Model has Low Tolerance for Assembly. You Might Want to Design Your own Files. Use a CAD Application. CAD Stands for Computer Aided Designs**
+
 # Technical Document
 
 **Technical Document:** https://github.com/MarcusThum/Raspberry-Pi-Computer-Vision/blob/main/Technical-Document.pdf
