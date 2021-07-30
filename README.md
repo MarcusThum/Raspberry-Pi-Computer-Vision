@@ -21,6 +21,8 @@ soldered LED's and a Button.*
 
 **Step 6**: Run ``` bash GPIO.py ```
 
+Run ```bash zip.py``` to Zip All Images and Audio [All Files are stored on Desktop]
+
 
 # Design Files
 
